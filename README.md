@@ -20,7 +20,7 @@ To set up the environment, install the required dependencies:
 ```bash
 pip install stable-baselines3[extra] gymnasium shimmy torch torchvision torchaudio
 pip install gym_super_mario_bros==7.3.0 nes_py tensorboard
-
+```
 ---
 
 ---
