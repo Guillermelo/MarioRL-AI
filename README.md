@@ -4,12 +4,12 @@
 
 ## 📌 Features
 
-- 🏆 **PPO-based reinforcement learning** for robust policy optimization.
-- 🎮 **Integration with Gym-SuperMarioBros** for simulating the game environment.
-- 🔍 **Custom reward system** to incentivize progress and efficient movement.
-- 📊 **Performance logging** using TensorBoard for visual analysis.
-- 🏗 **Frame processing** (grayscale conversion, resizing, and stacking) for improved model input.
-- 🕹 **Custom action space** using `JoypadSpace` for simplified movement control.
+- **PPO-based reinforcement learning** for robust policy optimization.
+- **Integration with Gym-SuperMarioBros** for simulating the game environment.
+- **Custom reward system** to incentivize progress and efficient movement.
+- **Performance logging** using TensorBoard for visual analysis.
+- **Frame processing** (grayscale conversion, resizing, and stacking) for improved model input.
+- **Custom action space** using `JoypadSpace` for simplified movement control.
 
 ---
 
@@ -64,16 +64,16 @@ This will:
 
 ## 🔬 Current Progress
 
-👉 **Implemented:**
+**Implemented:**
 - PPO-based training pipeline.
 - Training loop with reward optimization.
 
-🔄 **In Progress:**
+**In Progress:**
 - Hyperparameter tuning.
 - Generalization across multiple levels.
 - Advanced reward shaping.
 
-🎯 **Next Steps:**
+**Next Steps:**
 - Experiment with **different neural network architectures**.
 - Implement **curriculum learning** for progressive difficulty.
 
